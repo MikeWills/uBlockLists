@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Version: 201603182150
+! Title: Remove the paywall on the Mankato Free Press
+! Last modified: 18 Mar 2016 21:50 CST
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/MikeWills/uBlockLists
+!
+! Submit changes or additions to https://github.com/MikeWills/uBlockLists
