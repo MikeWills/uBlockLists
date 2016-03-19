@@ -6,3 +6,7 @@
 ! Homepage: https://github.com/MikeWills/uBlockLists
 !
 ! Submit changes or additions to https://github.com/MikeWills/uBlockLists
+
+www.mankatofreepress.com###ta_pagesLeftPopup
+www.mankatofreepress.com###ta_background
+www.mankatofreepress.com###ta_paywall
