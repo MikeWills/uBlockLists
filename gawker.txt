@@ -1,4 +1,10 @@
-[Block all Gawker sites]
+[Adblock Plus 2.0]
+! Version: 201603182150
+! Title: Block all Gawker sites
+! Last modified: 18 Mar 2016 21:50 CST
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/MikeWills/uBlockLists
+!
 ! Submit changes or additions to https://github.com/MikeWills/uBlockLists
 
 advertising.gawker.com
