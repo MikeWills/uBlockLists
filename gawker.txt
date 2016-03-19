@@ -1,0 +1,13 @@
+[Block all Gawker sites]
+! Submit changes or additions to https://github.com/MikeWills/uBlockLists
+
+advertising.gawker.com
+gawker.com
+deadspin.com
+jezebel.com
+kotaku.com
+io9.com
+jalopnik.com
+gizmodo.com
+lifehacker.com
+sinc.hu
